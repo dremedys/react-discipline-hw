@@ -1,0 +1,17 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    background: #61dafb;
+    padding: 20px;
+    align-items: center;
+}
+.navlink{
+    margin-right: 30px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 24px;
+}
+.navlink:hover{
+    cursor: pointer;
+}
